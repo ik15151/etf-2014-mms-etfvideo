@@ -1,4 +1,4 @@
-# **Tema:** Nelinearna obrada videa korištenjem FFmpeg biblioteke – ETFVideo
+# Nelinearna obrada videa korištenjem FFmpeg biblioteke – ETFVideo
 
 **Oblast:** Multimedijalni sistemi (MMS)
 
